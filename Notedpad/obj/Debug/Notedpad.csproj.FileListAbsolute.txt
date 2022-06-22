@@ -1,0 +1,12 @@
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\bin\Debug\Notedpad.exe.config
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\bin\Debug\Notedpad.exe
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\bin\Debug\Notedpad.pdb
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.csproj.AssemblyReference.cache
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.csproj.SuggestedBindingRedirects.cache
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.NotepadApp.resources
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.Form2.resources
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.Properties.Resources.resources
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.csproj.GenerateResource.cache
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.csproj.CoreCompileInputs.cache
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.exe
+D:\My Bacholar Degree\Semester 4\C# 1\source code\Notedpad\Notedpad\obj\Debug\Notedpad.pdb
